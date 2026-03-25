@@ -10,4 +10,8 @@ This respoitory is a demonstration of creating simple components in React.
 - Keys - JSX inside Map functions always require a key
 - Use of Developer tools
 
+## Challenge
+***Display the Eats array values as a bullet list for each animal.***
+***Solution in "challenge" branch***
+
 
