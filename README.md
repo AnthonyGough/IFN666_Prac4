@@ -1,6 +1,7 @@
 # React + Vite
 
-This respoitory is a demonstration of creating simple components in React. 
+This respoitory is a demonstration of creating simple components in React. Node modules has been removed - execute ```npm install``` to add folder back into solution
+
 
 ## Covers
 - Component Creation
