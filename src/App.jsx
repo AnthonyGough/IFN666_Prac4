@@ -44,6 +44,11 @@ function AnimalComponent(props) {
     <div key={props.number}>
     <h1> Name: {props.name}</h1>
     <p>Number: {props.number}</p>
+    <ul>
+      {props.eats.map(eat => (
+        <li>{eat}</li>
+      ))}
+      </ul>    
     </div>
   )
 }
